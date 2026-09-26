@@ -1,6 +1,6 @@
 # ALLOT_Attention_Intervention
 
-# $\textsc{Allot}$
+# `\textsc{Allot}`
 LLM Attention Intervention for Graph OOD Generalization
 
 ## Project Overview
